@@ -1,0 +1,3 @@
+To compile : make all
+To clean   : make clean
+To run     : ./Cube.o or ./CubeOrtho.o and so on...

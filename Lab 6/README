@@ -1,0 +1,13 @@
+To compile `make all`
+Controls:
+	* s -> rotate shoulder anticlockwise
+	* S -> rotate shoulder clockwise
+	* e -> rotate elbow anticlockwise
+	* E -> rotate elbow clockwise
+	* q -> rotate finger 1 anticlockwise
+	* Q -> rotate finger 1 clockwise
+	* w -> rotate finger 2 anticlockwise
+	* W -> rotate finger 2 clockwise
+	* r -> reset scene
+	* a -> play animation
+	* p -> if object is not visible then it becomes visible otherwise it becomes invisible
